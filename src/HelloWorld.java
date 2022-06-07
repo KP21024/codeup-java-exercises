@@ -27,13 +27,13 @@ public class HelloWorld {
         int y = 2;
 
 //        x = x / y;
-        x /= y;
+//        x /= y;
 //            y = y - x;
-        y = y - x;
+//        y = y - x;
 
-        y -= x;
+//        y -= x;
 
-        System.out.println(y);
+//        System.out.println(y);
 
 
 
