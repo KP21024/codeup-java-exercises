@@ -4,13 +4,13 @@
 
 package Vehicle;
 
-    public class  Vehicle {
-        private String name;
+public class  Vehicle {
+    private String name;
 
-        public void  makeNoise() {
-            System.out.println("Vroom vroom");
-        }
+    public void  makeNoise() {
+        System.out.println("Vroom vroom");
     }
+}
 
 
 

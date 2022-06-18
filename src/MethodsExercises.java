@@ -1,4 +1,4 @@
-public class MethodExercises {
+public class MethodsExercises {
 
 
 
