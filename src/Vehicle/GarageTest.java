@@ -12,8 +12,8 @@ public class GarageTest {
 //        vehicles[0].setName("Camero");
 //        vehicles[1] = new Tundra();
 //        vehicles[1].setName("Tundra");
-//        vehicles[2] = new Pinto();
-//        vehicles[2].setName("Pinto");
+//        vehicles[2] = new Z06();
+//        vehicles[2].setName("z06");
 //
 //        Garage healingWings = new Garage();
 //        Garage.makeNoise(vehicles);
@@ -23,7 +23,7 @@ public class GarageTest {
         Garage garageTest = new Garage("Garage Test");
 
         Vehicle[] garageVehicles = new Vehicle[3];
-        garageVehicles[0] = new Car("Pinto");
+        garageVehicles[0] = new Car("Zerogti");
         garageVehicles[1] = new Car("Chevy");
         garageVehicles[2] = new Car("Toyota");
         garageTest.retrieveVehicles();
