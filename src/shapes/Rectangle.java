@@ -1,4 +1,5 @@
-package Shapes;
+package shapes;
 
 public class Rectangle {
 }
+
